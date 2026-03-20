@@ -32,7 +32,7 @@ REST API для системы учёта задач (Todo List) с JWT‑аут
 
 1. **Клонируйте репозиторий**  
    ```bash
-   git clone <url>
+   git clone https://github.com/Qwe-Notorious/Todo-api.git
    ```
 2. **Установка зависимостей**
     ```bash
